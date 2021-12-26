@@ -16,3 +16,5 @@
 
 ### 使用工具及平台
 Python, Colab
+- Python
+	- package: gzip, json, pandas, numpy, datetime
